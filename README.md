@@ -56,7 +56,7 @@
 >
 > Berikut tampilan app studi kasus php mysql todolist :
 >
-> 
+> <img width="274" alt="Cuplikan layar 2024-03-24 164546" src="https://github.com/weyndraig14/studi-kasus-php-mysql-todolist/assets/162102805/2dfd0ee1-b4c1-4853-942e-55458f357705">
 ---
 
 <p align="center" >
